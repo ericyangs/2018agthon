@@ -14,9 +14,11 @@ pip install requests
 - 取得全台小黃瓜拍賣價，依價格讀入
 
 使用資料說明
+
 https://data.coa.gov.tw/Query/ServiceDetail.aspx?id=037
 
 資料介接 作物別：小黃瓜
+
 http://data.coa.gov.tw/Service/OpenData/FromM/FarmTransData.aspx?cropCode=fd1
 
 get_data.py
